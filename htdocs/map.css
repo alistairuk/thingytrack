@@ -1,0 +1,15 @@
+/* CSS to make the map fill the screen and all modern browsers */
+
+html {
+	height:100%;
+}
+
+body {
+	height:100%;
+	margin:0;
+}
+
+#map {
+	height:100%;
+	border: 0px solid #AAA;
+}
